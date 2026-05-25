@@ -1,4 +1,4 @@
-# AdventureWorks Sales Data Analysis (Excel | SQL | Power BI | Tableau)
+# P-1114_AdventureWorks Sales Data Analysis (Excel | SQL | Power BI | Tableau)
 
 This is an end-to-end sales data analytics project where I analyzed sales data using Excel, SQL, Power BI, and Tableau to generate meaningful business insights and recommendations.
 
