@@ -3,7 +3,7 @@
 This is an end-to-end sales data analytics project where I analyzed sales data using Excel, SQL, Power BI, and Tableau to generate meaningful business insights and recommendations.
 
 
-🛠 ## Tools & Technologies Used: I used these recommended and Learned Tools for this end to end Project.
+ ## 🛠 Tools & Technologies Used: I used these recommended and Learned Tools for this end to end Project.
     
     - Microsoft Excel (Data cleaning, merging, transformation, Pivot Tables, KPIs, Dashboard)
 
@@ -17,7 +17,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
 
 
 ---
-📊 Microsoft Excel  (Data cleaning,Data Merging, transformation,PivotTables, Charts, Slicers, KPIs, Dashboard)  
+# 📊 Microsoft Excel  (Data cleaning,Data Merging, transformation,PivotTables, Charts, Slicers, KPIs, Dashboard)  
 
   📌 Connected multiple Excel workbooks using Power Query Editor.
   
@@ -32,7 +32,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
   📌 Designed an Excel dashboard to present sales insights clearly.
 
 ---
-📊 MySQL (Database Creation, Data Loading, Solving Queries & Analysis)
+# 📊 MySQL (Database Creation, Data Loading, Solving Queries & Analysis)
 
   📌 Converted the cleaned Excel sales sheet into CSV format.
   
@@ -51,7 +51,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
 
 
 ---
-📊 Power BI Desktop (Interactive dashboards)
+# 📊 Power BI Desktop (Interactive dashboards)
 
   📌 Connected Power BI Desktop to the MySQL database using the MySQL connector.
   
@@ -78,7 +78,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
 
 
 ---
-📊 Tableau Public (Data visualization)
+# 📊 Tableau Public (Data visualization)
 
   
   📌 Used the prepared single sales dataset for visualization in Tableau.
@@ -91,7 +91,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
 
 
 ---
-📊 PowerPoint (Business insights & recommendations)
+# 📊 PowerPoint (Business insights & recommendations)
 
   
   📌 Prepared a presentation using screenshots of charts and dashboards created in Excel, Power BI, and Tableau.
@@ -104,7 +104,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
   
   📌 Concluded with a summary highlighting overall findings and impact.
   
-  📌 Key Business Insights
+  # 📌 Key Business Insights
   
     - Sales grew strongly till 2013, peaking at 16.35M.
     - Profit margins stayed healthy at ≈ 41%+.
@@ -117,7 +117,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
 
 
 
-📌 IMPROVEMENTS
+# 📌 IMPROVEMENTS
 - Better forecasting & inventory management for peak months.
 - Enhance real-time dashboards for faster decisions.
 - Use customer segmentation to target high-value buyers.
@@ -126,7 +126,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
 
 
 
-📌 Key Challenges
+# 📌 Key Challenges
 - Dataset split across multiple Excel files with primary/foreign keys, duplicates, blanks Cleaned & combined files using Power Query Editor.
 - Maintaining relationships and accuracy during file merges Used Merge on common columns to preserve accuracy.
 - Large data size (~60,000 rows) made merging difficult Applied step‑by‑step transformations to handle large dataset.
@@ -139,7 +139,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
   
   
   
-📌  Solutions
+# 📌  Solutions
 - CSV file connection issues while loading into SQL.
 
   • Exported cleaned dataset into CSV format for SQL import.
@@ -168,5 +168,5 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
     - Dashboard Screenshots 
 
 
-📌
+## 📌Note
 Some files and datasets are uploaded in different formats and a few files may be missing due to file size or platform limitations. The uploaded content is shared for project authenticity and portfolio purposes.
