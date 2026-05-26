@@ -65,16 +65,16 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
   
   📌 Designed visualizations for:
 
-- Sales by Year
-- Sales by Month
-- Sales by Quarters
-- Sales by Weekdays vs Weekend
-- Sales vs Production Cost
-- Sales by Top 5 Customers 
-- Sales and Profit by Territory Group
-- Sales by Country
-- Profit by Top 10 Products 
-- Highest Profitable Category
+    - Sales by Year
+    - Sales by Month
+    - Sales by Quarters
+    - Sales by Weekdays vs Weekend
+    - Sales vs Production Cost
+    - Sales by Top 5 Customers 
+    - Sales and Profit by Territory Group
+    - Sales by Country
+    - Profit by Top 10 Products 
+    - Highest Profitable Category
 
 
 
@@ -106,20 +106,20 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
   
   📌 Key Business Insights
   
-- Sales grew strongly till 2013, peaking at 16.35M.
-- Profit margins stayed healthy at ≈ 41%+.
-- North America leads in sales & profit; Europe shows scalable potential.
-- Bikes are the main profit driver (11.5M), especially Mountain-200 models; Road-150 underperformed.
-- USA & Australia contributed almost equally (~9M each), ensuring balanced geography.
-- Top 5 customers are loyal (~69K), but concentration risk exists.
+    - Sales grew strongly till 2013, peaking at 16.35M.
+    - Profit margins stayed healthy at ≈ 41%+.
+    - North America leads in sales & profit; Europe shows scalable potential.
+    - Bikes are the main profit driver (11.5M), especially Mountain-200 models; Road-150 underperformed.
+    - USA & Australia contributed almost equally (~9M each), ensuring balanced geography.
+    - Top 5 customers are loyal (~69K), but concentration risk exists.
 
 
   📌 IMPROVEMENTS
-- Better forecasting & inventory management for peak months.
-- Enhance real-time dashboards for faster decisions.
-- Use customer segmentation to target high-value buyers.
-- Innovate within Bike category to sustain growth.
-- Diversify territories & product lines to reduce risk. 
+    - Better forecasting & inventory management for peak months.
+    - Enhance real-time dashboards for faster decisions.
+    - Use customer segmentation to target high-value buyers.
+    - Innovate within Bike category to sustain growth.
+    - Diversify territories & product lines to reduce risk. 
 
   
   📌 Key Challenges
