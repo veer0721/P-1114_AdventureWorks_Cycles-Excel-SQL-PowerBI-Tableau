@@ -94,12 +94,12 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
   
   📌 Key Business Insights
   
-      - Sales grew strongly till 2013, peaking at 16.35M.
-      - Profit margins stayed healthy at ≈ 41%+.
-      - North America leads in sales & profit; Europe shows scalable potential.
-      - Bikes are the main profit driver (11.5M), especially Mountain-200 models; Road-150 underperformed.
-      - USA & Australia contributed almost equally (~9M each), ensuring balanced geography.
-      - Top 5 customers are loyal (~69K), but concentration risk exists.
+- Sales grew strongly till 2013, peaking at 16.35M.
+- Profit margins stayed healthy at ≈ 41%+.
+- North America leads in sales & profit; Europe shows scalable potential.
+- Bikes are the main profit driver (11.5M), especially Mountain-200 models; Road-150 underperformed.
+- USA & Australia contributed almost equally (~9M each), ensuring balanced geography.
+- Top 5 customers are loyal (~69K), but concentration risk exists.
 
 
   📌 IMPROVEMENTS
@@ -117,13 +117,16 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
 
   📌  Solutions
 - CSV file connection issues while loading into SQL.
-• Exported cleaned dataset into CSV format for SQL import.
-• Wrote & refined SQL queries for analysis readiness.
-• Fixed CSV import errors (delimiters, encoding, data types).
+  • Exported cleaned dataset into CSV format for SQL import.
+
+  • Wrote & refined SQL queries for analysis readiness.
+
+  • Fixed CSV import errors (delimiters, encoding, data types).
           
 - SQL database connection problems in Power BI
-• Created dedicated SQL database for Power BI project.
-• Resolved SQL–Power BI connection issues (drivers, credentials, permissions).
+  • Created dedicated SQL database for Power BI project.
+
+  • Resolved SQL–Power BI connection issues (drivers, credentials, permissions).
 
 
 
