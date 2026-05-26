@@ -103,11 +103,11 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
 
 
   📌 IMPROVEMENTS
-    - Better forecasting & inventory management for peak months.
-    - Enhance real-time dashboards for faster decisions.
-    - Use customer segmentation to target high-value buyers.
-    - Innovate within Bike category to sustain growth.
-    - Diversify territories & product lines to reduce risk. 
+- Better forecasting & inventory management for peak months.
+- Enhance real-time dashboards for faster decisions.
+- Use customer segmentation to target high-value buyers.
+- Innovate within Bike category to sustain growth.
+- Diversify territories & product lines to reduce risk. 
 
   
   📌 Key Challenges
@@ -117,13 +117,13 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
 
   📌  Solutions
 - CSV file connection issues while loading into SQL.
-  • Exported cleaned dataset into CSV format for SQL import.
-  • Wrote & refined SQL queries for analysis readiness.
-  • Fixed CSV import errors (delimiters, encoding, data types).
+• Exported cleaned dataset into CSV format for SQL import.
+• Wrote & refined SQL queries for analysis readiness.
+• Fixed CSV import errors (delimiters, encoding, data types).
           
 - SQL database connection problems in Power BI
-  • Created dedicated SQL database for Power BI project.
-  • Resolved SQL–Power BI connection issues (drivers, credentials, permissions).
+• Created dedicated SQL database for Power BI project.
+• Resolved SQL–Power BI connection issues (drivers, credentials, permissions).
 
 
 
