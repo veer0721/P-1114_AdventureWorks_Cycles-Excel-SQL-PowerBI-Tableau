@@ -168,5 +168,5 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
     - Dashboard Screenshots 
 
 
-📌 Note 
+📌
 Some files and datasets are uploaded in different formats and a few files may be missing due to file size or platform limitations. The uploaded content is shared for project authenticity and portfolio purposes.
