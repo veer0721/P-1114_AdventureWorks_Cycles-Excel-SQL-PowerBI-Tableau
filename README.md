@@ -62,8 +62,20 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
   📌 Created charts and visuals based on defined KPIs and requirements.
   
   📌 Designed an interactive Power BI dashboard to present sales performance insights.
-
   
+  📌 Designed visualizations for:
+
+- Sales by Year
+- Sales by Month
+- Sales by Quarters
+- Sales by Weekdays vs Weekend
+- Sales vs Production Cost
+- Sales by Top 5 Customers 
+- Sales and Profit by Territory Group
+- Sales by Country
+- Profit by Top 10 Products 
+- Highest Profitable Category
+
 
 
 📊 Tableau Public (Data visualization)
