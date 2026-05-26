@@ -114,19 +114,31 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
     - Top 5 customers are loyal (~69K), but concentration risk exists.
 
 
-  📌 IMPROVEMENTS
+
+
+
+📌 IMPROVEMENTS
     - Better forecasting & inventory management for peak months.
     - Enhance real-time dashboards for faster decisions.
     - Use customer segmentation to target high-value buyers.
     - Innovate within Bike category to sustain growth.
     - Diversify territories & product lines to reduce risk. 
 
-  
-  📌 Key Challenges
+
+
+📌 Key Challenges
     - Dataset split across multiple Excel files with primary/foreign keys, duplicates, blanks Cleaned & combined files using Power Query Editor.
     - Maintaining relationships and accuracy during file merges Used Merge on common columns to preserve accuracy.
     - Large data size (~60,000 rows) made merging difficult Applied step‑by‑step transformations to handle large dataset.
 
+  
+  
+  
+  
+  
+  
+  
+  
   📌  Solutions
 - CSV file connection issues while loading into SQL.
 
