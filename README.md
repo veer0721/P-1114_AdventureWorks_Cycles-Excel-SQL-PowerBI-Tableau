@@ -117,6 +117,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
 
   📌  Solutions
 - CSV file connection issues while loading into SQL.
+
   • Exported cleaned dataset into CSV format for SQL import.
 
   • Wrote & refined SQL queries for analysis readiness.
@@ -124,6 +125,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
   • Fixed CSV import errors (delimiters, encoding, data types).
           
 - SQL database connection problems in Power BI
+ 
   • Created dedicated SQL database for Power BI project.
 
   • Resolved SQL–Power BI connection issues (drivers, credentials, permissions).
