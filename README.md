@@ -16,7 +16,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
     - PowerPoint (Insights, recommendations, and conclusions)
 
 
-
+---
 📊 Microsoft Excel  (Data cleaning,Data Merging, transformation,PivotTables, Charts, Slicers, KPIs, Dashboard)  
 
   📌 Connected multiple Excel workbooks using Power Query Editor.
@@ -31,7 +31,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
   
   📌 Designed an Excel dashboard to present sales insights clearly.
 
-
+---
 📊 MySQL (Database Creation, Data Loading, Solving Queries & Analysis)
 
   📌 Converted the cleaned Excel sales sheet into CSV format.
@@ -50,7 +50,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
 
 
 
-
+---
 📊 Power BI Desktop (Interactive dashboards)
 
   📌 Connected Power BI Desktop to the MySQL database using the MySQL connector.
@@ -77,7 +77,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
     - Highest Profitable Category
 
 
-
+---
 📊 Tableau Public (Data visualization)
 
   
@@ -90,7 +90,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
   📌 Focused on visual storytelling to support business understanding.
 
 
-
+---
 📊 PowerPoint (Business insights & recommendations)
 
   
@@ -157,7 +157,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
 
 
 
-  
+  ---
   📁 Project Files Included
     - Excel Files
     - SQL Queries
