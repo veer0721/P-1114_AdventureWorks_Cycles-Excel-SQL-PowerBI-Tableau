@@ -106,30 +106,30 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
   
   # 📌 Key Business Insights
   
-    - Sales grew strongly till 2013, peaking at 16.35M.
-    - Profit margins stayed healthy at ≈ 41%+.
-    - North America leads in sales & profit; Europe shows scalable potential.
-    - Bikes are the main profit driver (11.5M), especially Mountain-200 models; Road-150 underperformed.
-    - USA & Australia contributed almost equally (~9M each), ensuring balanced geography.
-    - Top 5 customers are loyal (~69K), but concentration risk exists.
+    1.Sales grew strongly till 2013, peaking at 16.35M.
+    2. Profit margins stayed healthy at ≈ 41%+.
+    3. North America leads in sales & profit; Europe shows scalable potential.
+    4. Bikes are the main profit driver (11.5M), especially Mountain-200 models; Road-150 underperformed.
+    5. USA & Australia contributed almost equally (~9M each), ensuring balanced geography.
+    6.Top 5 customers are loyal (~69K), but concentration risk exists.
 
 
 
 
 
 # 📌 IMPROVEMENTS
-- Better forecasting & inventory management for peak months.
-- Enhance real-time dashboards for faster decisions.
-- Use customer segmentation to target high-value buyers.
-- Innovate within Bike category to sustain growth.
-- Diversify territories & product lines to reduce risk. 
+1. Better forecasting & inventory management for peak months.
+2. Enhance real-time dashboards for faster decisions.
+3. Use customer segmentation to target high-value buyers.
+4. Innovate within Bike category to sustain growth.
+5. Diversify territories & product lines to reduce risk. 
 
 
 
 # 📌 Key Challenges
-- Dataset split across multiple Excel files with primary/foreign keys, duplicates, blanks Cleaned & combined files using Power Query Editor.
-- Maintaining relationships and accuracy during file merges Used Merge on common columns to preserve accuracy.
-- Large data size (~60,000 rows) made merging difficult Applied step‑by‑step transformations to handle large dataset.
+1. Dataset split across multiple Excel files with primary/foreign keys, duplicates, blanks Cleaned & combined files using Power Query Editor.
+2. Maintaining relationships and accuracy during file merges Used Merge on common columns to preserve accuracy.
+3. Large data size (~60,000 rows) made merging difficult Applied step‑by‑step transformations to handle large dataset.
 
   
   
@@ -140,7 +140,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
   
   
 # 📌  Solutions
-- CSV file connection issues while loading into SQL.
+1. CSV file connection issues while loading into SQL.
 
   • Exported cleaned dataset into CSV format for SQL import.
 
@@ -148,7 +148,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
 
   • Fixed CSV import errors (delimiters, encoding, data types).
           
-- SQL database connection problems in Power BI
+2. SQL database connection problems in Power BI
  
   • Created dedicated SQL database for Power BI project.
 
