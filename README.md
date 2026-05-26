@@ -103,25 +103,25 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
 
 
   📌 IMPROVEMENTS
-      - Better forecasting & inventory management for peak months.
-      - Enhance real-time dashboards for faster decisions.
-      - Use customer segmentation to target high-value buyers.
-      - Innovate within Bike category to sustain growth.
-      - Diversify territories & product lines to reduce risk. 
+    - Better forecasting & inventory management for peak months.
+    - Enhance real-time dashboards for faster decisions.
+    - Use customer segmentation to target high-value buyers.
+    - Innovate within Bike category to sustain growth.
+    - Diversify territories & product lines to reduce risk. 
 
   
   📌 Key Challenges
-        - Dataset split across multiple Excel files with primary/foreign keys, duplicates, blanks Cleaned & combined files using Power Query Editor.
-        - Maintaining relationships and accuracy during file merges Used Merge on common columns to preserve accuracy.
-        - Large data size (~60,000 rows) made merging difficult Applied step‑by‑step transformations to handle large dataset.
+    - Dataset split across multiple Excel files with primary/foreign keys, duplicates, blanks Cleaned & combined files using Power Query Editor.
+    - Maintaining relationships and accuracy during file merges Used Merge on common columns to preserve accuracy.
+    - Large data size (~60,000 rows) made merging difficult Applied step‑by‑step transformations to handle large dataset.
 
   📌  Solutions
-          - CSV file connection issues while loading into SQL.
+- CSV file connection issues while loading into SQL.
                 • Exported cleaned dataset into CSV format for SQL import.
                 • Wrote & refined SQL queries for analysis readiness.
                 • Fixed CSV import errors (delimiters, encoding, data types).
           
-          - SQL database connection problems in Power BI
+- SQL database connection problems in Power BI
                 • Created dedicated SQL database for Power BI project.
                 • Resolved SQL–Power BI connection issues (drivers, credentials, permissions).
 
