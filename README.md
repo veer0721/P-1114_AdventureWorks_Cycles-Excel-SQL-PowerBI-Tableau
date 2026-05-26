@@ -92,9 +92,53 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
   📌 Included dashboard snapshots and supporting SQL/query references
   
   📌 Concluded with a summary highlighting overall findings and impact
+  
+  📌 Key Business Insights
+  
+      - Sales grew strongly till 2013, peaking at 16.35M
+      - Profit margins stayed healthy at ≈ 41%+.
+      - North America leads in sales & profit; Europe shows scalable potential.
+      - Bikes are the main profit driver (11.5M), especially Mountain-200 models; Road-150 underperformed
+      - USA & Australia contributed almost equally (~9M each), ensuring balanced geography
+      - Top 5 customers are loyal (~69K), but concentration risk exists.
+
+
+  📌 IMPROVEMENTS
+      - Better forecasting & inventory management for peak months.
+      - Enhance real-time dashboards for faster decisions.
+      - Use customer segmentation to target high-value buyers.
+      - Innovate within Bike category to sustain growth.
+      - Diversify territories & product lines to reduce risk. 
+
+  
+  📌 Key Challenges
+        - Dataset split across multiple Excel files with primary/foreign keys, duplicates, blanks Cleaned & combined files using Power Query Editor
+        - Maintaining relationships and accuracy during file merges Used Merge on common columns to preserve accuracy
+        - Large data size (~60,000 rows) made merging difficult Applied step‑by‑step transformations to handle large dataset
+
+  📌  Solutions
+          - CSV file connection issues while loading into SQL
+                • Exported cleaned dataset into CSV format for SQL import
+                • Wrote & refined SQL queries for analysis readiness
+                • Fixed CSV import errors (delimiters, encoding, data types)
+          
+          - SQL database connection problems in Power BI
+                • Created dedicated SQL database for Power BI project
+                • Resolved SQL–Power BI connection issues (drivers, credentials, permissions)
 
 
 
-Note; Some files and datasets are uploaded here in other formats and some files are missing too but its just for its authenticity.
+
+  
+  📁 Project Files Included
+    - Excel Files
+    - SQL Queries
+    - Power BI Dashboard (.pbix)
+    - Tableau Dashboard
+    - PowerPoint Presentation
+    - Dataset Files
+    - Dashboard Screenshots 
 
 
+📌 Note 
+Some files and datasets are uploaded in different formats and a few files may be missing due to file size or platform limitations. The uploaded content is shared for project authenticity and portfolio purposes.
