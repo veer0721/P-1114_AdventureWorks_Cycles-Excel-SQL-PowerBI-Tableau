@@ -103,11 +103,11 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
 
 
   📌 IMPROVEMENTS
-- Better forecasting & inventory management for peak months.
-- Enhance real-time dashboards for faster decisions.
-- Use customer segmentation to target high-value buyers.
-- Innovate within Bike category to sustain growth.
-- Diversify territories & product lines to reduce risk. 
+    - Better forecasting & inventory management for peak months.
+    - Enhance real-time dashboards for faster decisions.
+    - Use customer segmentation to target high-value buyers.
+    - Innovate within Bike category to sustain growth.
+    - Diversify territories & product lines to reduce risk. 
 
   
   📌 Key Challenges
