@@ -139,7 +139,7 @@ This is an end-to-end sales data analytics project where I analyzed sales data u
   
   
   
-  📌  Solutions
+📌  Solutions
 - CSV file connection issues while loading into SQL.
 
   • Exported cleaned dataset into CSV format for SQL import.
